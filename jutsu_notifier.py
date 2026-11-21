@@ -17,6 +17,8 @@ URLS = [
     "https://jut-su.net/9034-chernyj-klever-2-sezon-x1.html",
     "https://jut-su.net/9033-monolog-farmacevta-3-sezon-u1.html",
     "https://jut-su.net/9036-golubaja-shkatulka-2-sezon-n1.html",
+    "https://jut-su.net/9198-titosje-vnutri-butylki-ramunje-chast-2.html",
+    "https://jut-su.net/9271-ja-vedma-kotoruju-vozljublennyj-poprosil-sozdat-ljubovnoe-zele-l1.html",
 ]
 
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "jutsu_state.json")
